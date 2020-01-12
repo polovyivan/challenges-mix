@@ -6,9 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="coding-challenge-001-name" />
         <module name="coding-challenge-002-name" />
         <module name="coding-challenges.coding-challenge-001-name" />
+        <module name="coding-challenge-001-brackets-pairs" />
         <module name="coding-challenges.coding-challenge-002-name" />
       </profile>
     </annotationProcessing>
