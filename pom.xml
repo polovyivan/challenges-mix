@@ -9,9 +9,17 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>coding-challenge-001-name</module>
+        <module>coding-challenge-001-brackets-pairs</module>
         <module>coding-challenge-002-name</module>
     </modules>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-engine</artifactId>
+            <version>5.5.2</version>
+        </dependency>
+    </dependencies>
 
 
 </project>
