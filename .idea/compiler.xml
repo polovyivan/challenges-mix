@@ -6,14 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="coding-challenge-002-name" />
+        <module name="coding-challenge-002-pairs-of-socks" />
         <module name="coding-challenges.coding-challenge-001-name" />
         <module name="coding-challenge-001-brackets-pairs" />
         <module name="coding-challenges.coding-challenge-002-name" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="coding-challenge-002-pairs-of-socks" target="1.5" />
       <module name="coding-challenges-001-name" target="1.5" />
       <module name="codingchallenge-001-name" target="1.5" />
       <module name="codingchallenge-002" target="1.5" />

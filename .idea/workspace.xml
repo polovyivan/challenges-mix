@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b98e11c7-8a56-4854-aa0c-1bf1eb9a1f97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/coding-challenge-002-pairs-of-socks/src/main/java/com/ivan/polovyi/challenge/PairOfSocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coding-challenge-002-pairs-of-socks/src/test/java/com/ivan/polovyi/challenge/PairOfSocksTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-challenge-002-name/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/coding-challenge-002-pairs-of-socks/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding-challenge-001-brackets-pairs/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/coding-challenge-001-brackets-pairs/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding-challenge-002-pairs-of-socks/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/coding-challenge-002-pairs-of-socks/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding-challenge-002-pairs-of-socks/src/main/java/com/ivan/polovyi/challenge/PairOfSocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/coding-challenge-002-pairs-of-socks/src/main/java/com/ivan/polovyi/challenge/PairOfSocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding-challenge-002-pairs-of-socks/src/test/java/com/ivan/polovyi/challenge/PairOfSocksTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/coding-challenge-002-pairs-of-socks/src/test/java/com/ivan/polovyi/challenge/PairOfSocksTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,29 +34,15 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/coding-challenge-001-brackets-pairs/src/main/java/com/ivan/polovyi/challenge/BracketsPairs.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#705#716#0" expanded="true" />
-                <element signature="e#519#530#0" expanded="true" />
-                <element signature="e#562#573#0" expanded="true" />
-                <element signature="e#632#643#0" expanded="true" />
-                <element signature="e#675#686#0" expanded="true" />
-                <element signature="e#767#778#0" expanded="true" />
-                <element signature="e#826#837#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/coding-challenge-002-pairs-of-socks/src/main/java/com/ivan/polovyi/challenge/PairOfSocks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+            <state relative-caret-position="-192">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#536#545#0" expanded="true" />
+                <element signature="e#657#675#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -62,11 +50,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/coding-challenge-002-pairs-of-socks/src/test/java/com/ivan/polovyi/challenge/PairOfSocksTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="318">
+              <caret line="19" column="28" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coding-challenge-002-pairs-of-socks/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="406">
+              <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -92,11 +89,11 @@
         <option value="$PROJECT_DIR$/coding-challenges-001-name/pom.xml" />
         <option value="$PROJECT_DIR$/coding-challenge-001-name/src/main/java/HelloWorld.java" />
         <option value="$PROJECT_DIR$/coding-challenge-001-brackets-pairs/src/main/java/BracketsPair.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/coding-challenge-001-brackets-pairs/pom.xml" />
         <option value="$PROJECT_DIR$/coding-challenge-001-brackets-pairs/src/test/java/com/ivan/polovyi/challenge/BracketsPairsTest.java" />
         <option value="$PROJECT_DIR$/coding-challenge-001-brackets-pairs/src/main/java/com/ivan/polovyi/challenge/BracketsPairs.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/coding-challenge-002-pairs-of-socks/pom.xml" />
+        <option value="$PROJECT_DIR$/coding-challenge-001-brackets-pairs/pom.xml" />
         <option value="$PROJECT_DIR$/coding-challenge-002-pairs-of-socks/src/test/java/com/ivan/polovyi/challenge/PairOfSocksTest.java" />
         <option value="$PROJECT_DIR$/coding-challenge-002-pairs-of-socks/src/main/java/com/ivan/polovyi/challenge/PairOfSocks.java" />
       </list>
@@ -125,17 +122,6 @@
             <path>
               <item name="coding-challenges" type="b2602c69:ProjectViewProjectNode" />
               <item name="coding-challenges" type="462c0819:PsiDirectoryNode" />
-              <item name="coding-challenge-001-brackets-pairs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coding-challenges" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coding-challenges" type="462c0819:PsiDirectoryNode" />
-              <item name="coding-challenge-001-brackets-pairs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coding-challenges" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coding-challenges" type="462c0819:PsiDirectoryNode" />
               <item name="coding-challenge-002-pairs-of-socks" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -150,6 +136,23 @@
               <item name="coding-challenge-002-pairs-of-socks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coding-challenges" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coding-challenges" type="462c0819:PsiDirectoryNode" />
+              <item name="coding-challenge-002-pairs-of-socks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coding-challenges" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coding-challenges" type="462c0819:PsiDirectoryNode" />
+              <item name="coding-challenge-002-pairs-of-socks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="challenge" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="coding-challenges" type="b2602c69:ProjectViewProjectNode" />
@@ -268,7 +271,7 @@
       </method>
     </configuration>
     <configuration name="PairOfSocksTest.pairOfSocksTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="coding-challenge-002-name" />
+      <module name="coding-challenge-002-pairs-of-socks" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ivan.polovyi.challenge.*" />
@@ -307,24 +310,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BracketsPairsTest_bracketsPairsFirstAttempt - 2020.01.11 at 22h 49m 15s.xml">
-      <configuration name="BracketsPairsTest.bracketsPairsFirstAttempt" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BracketsPairsTest_bracketsPairsFirstAttempt - 2020.01.11 at 22h 51m 15s.xml">
-      <configuration name="BracketsPairsTest.bracketsPairsFirstAttempt" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BracketsPairsTest_bracketsPairsSecondAttempt - 2020.01.11 at 23h 17m 14s.xml">
-      <configuration name="BracketsPairsTest.bracketsPairsSecondAttempt" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BracketsPairsTest_bracketsPairsSecondAttempt - 2020.01.11 at 23h 19m 24s.xml">
-      <configuration name="BracketsPairsTest.bracketsPairsSecondAttempt" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BracketsPairsTest_bracketsPairsSecondAttempt - 2020.01.11 at 23h 20m 02s.xml">
-      <configuration name="BracketsPairsTest.bracketsPairsSecondAttempt" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BracketsPairsTest_bracketsPairsSecondAttempt - 2020.01.11 at 23h 21m 32s.xml">
-      <configuration name="BracketsPairsTest.bracketsPairsSecondAttempt" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BracketsPairsTest_bracketsPairsSecondAttempt - 2020.01.11 at 23h 24m 56s.xml">
       <configuration name="BracketsPairsTest.bracketsPairsSecondAttempt" configurationId="JUnit" />
     </history-entry>
@@ -337,12 +322,30 @@
     <history-entry file="BracketsPairsTest_bracketsPairsSecondAttempt - 2020.01.11 at 23h 28m 35s.xml">
       <configuration name="BracketsPairsTest.bracketsPairsSecondAttempt" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PairOfSocksTest_pairOfSocksTest - 2020.01.12 at 16h 32m 49s.xml">
+      <configuration name="PairOfSocksTest.pairOfSocksTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BracketsPairsTest_bracketsPairsSecondAttempt - 2020.01.12 at 22h 16m 14s.xml">
+      <configuration name="BracketsPairsTest.bracketsPairsSecondAttempt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PairOfSocksTest_pairOfSocksTest - 2020.01.12 at 22h 16m 35s.xml">
+      <configuration name="PairOfSocksTest.pairOfSocksTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PairOfSocksTest_pairOfSocksTest - 2020.01.12 at 22h 17m 13s.xml">
+      <configuration name="PairOfSocksTest.pairOfSocksTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PairOfSocksTest_pairOfSocksTest - 2020.01.12 at 22h 18m 42s.xml">
+      <configuration name="PairOfSocksTest.pairOfSocksTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PairOfSocksTest_pairOfSocksTest - 2020.01.12 at 22h 24m 56s.xml">
+      <configuration name="PairOfSocksTest.pairOfSocksTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31169665" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14524421" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -354,13 +357,13 @@
       <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32974428" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32974428" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.2651413" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.1359354" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Console" order="10" />
       <window_info anchor="bottom" id="Version Control" order="11" />
@@ -428,17 +431,34 @@
     <entry file="file://$PROJECT_DIR$/coding-challenges-001-name/pom.xml" />
     <entry file="file://$PROJECT_DIR$/coding-challenges-001-name/coding-challenge-001-name/pom.xml" />
     <entry file="file://$PROJECT_DIR$/coding-challenge-001-brackets-pairs/src/main/java/BracketsPair.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/coding-challenge-002-pairs-of-socks/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="20" column="21" selection-start-line="16" selection-start-column="7" selection-end-line="20" selection-end-column="21" />
+        <state relative-caret-position="406">
+          <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/coding-challenge-001-brackets-pairs/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        <state relative-caret-position="406">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coding-challenge-001-brackets-pairs/src/test/java/com/ivan/polovyi/challenge/BracketsPairsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="45" column="16" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -459,34 +479,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coding-challenge-002-pairs-of-socks/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coding-challenge-001-brackets-pairs/src/test/java/com/ivan/polovyi/challenge/BracketsPairsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="45" column="16" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/coding-challenge-002-pairs-of-socks/src/main/java/com/ivan/polovyi/challenge/PairOfSocks.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        <state relative-caret-position="-192">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#536#545#0" expanded="true" />
+            <element signature="e#657#675#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/coding-challenge-002-pairs-of-socks/src/test/java/com/ivan/polovyi/challenge/PairOfSocksTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="318">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
