@@ -2,6 +2,7 @@ package com.ivan.polovyi.challenge;
 
 import java.util.*;
 import java.util.stream.Collectors;
+import java.util.stream.IntStream;
 
 public class PairOfSocks {
 
@@ -9,16 +10,22 @@ public class PairOfSocks {
         int n = 3;
         int[] ar = {1, 2, 3};
 
-        sockMerchant(n, ar);
+        sockMerchantTemplate1(n, ar);
     }
 
-    static int sockMerchant(int n, int[] ar) {
+    static int sockMerchantTemplate1(int n, int[] ar) {
+        return colorsCount(ar, removeDuplicatesUsingSet(ar));
+    }
 
-        int numberOfPairs = 0;
+    static int sockMerchantTemplate2(int n, int[] ar) {
+        return colorsCount(ar, removeDuplicatesOldSchool(ar));
+    }
 
-        // get set of color
-        Set<Integer> colors = new HashSet<Integer>(Arrays.stream(ar).boxed().collect(Collectors.toList()));
-        //count quantity of each color and save it to Map
+    static int sockMerchantTemplate3(int n, int[] ar) {
+        return colorsCount(ar, removeDuplicatesJava8Stream(ar));
+    }
+
+    private static int colorsCount(int[] ar, List<Integer> colors) {
         Map<Integer, Integer> colorsQty = new HashMap<Integer, Integer>();
 
         for (Integer color : colors) {
@@ -39,7 +46,35 @@ public class PairOfSocks {
         }
 
         //sum up all and return
-
         return colorsQty.values().stream().reduce(0, Integer::sum);
     }
+
+
+    private static List<Integer> removeDuplicatesJava8Stream(int[] ar) {
+
+        return IntStream.of(ar)
+                .distinct()
+                .boxed()
+                .collect(Collectors.toList());
+    }
+
+
+    private static List<Integer> removeDuplicatesUsingSet(int[] ar) {
+        return new ArrayList<Integer>(new HashSet<Integer>(Arrays.stream(ar).boxed().collect(Collectors.toList())));
+    }
+
+
+    private static List<Integer> removeDuplicatesOldSchool(int[] ar) {
+
+        List<Integer> distinct = new ArrayList<>();
+
+        for (int number : ar) {
+
+            if (!distinct.contains(number)) {
+                distinct.add(number);
+            }
+        }
+        return distinct;
+    }
+
 }
