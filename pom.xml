@@ -10,7 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>coding-challenge-001-brackets-pairs</module>
-        <module>coding-challenge-002-name</module>
+        <module>coding-challenge-002-pairs-of-socks</module>
     </modules>
 
     <dependencies>
