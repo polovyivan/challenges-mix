@@ -13,18 +13,18 @@ public class LoopSeriesI {
 
     public static int[] loopSeriesII(int[] input) {
 
-        int a = input[0];
-        int b = input[1];
-        int n = input[2];
-        int result[] = new int[n+1];
+        int a = input[0];//5
+        int b = input[1];//3
+        int n = input[2];//5
+        int result[] = new int[n];
 
+        int tenpVar = a;
+        for (int i = 0; i < n; i++) {
 
-        for (int i = 1;i<=n;i++){
-
-            result[i]=result[i]+i*b;
+            tenpVar += (int) Math.pow(2, i) * b;
+            result[i] = tenpVar;
         }
 
-        System.out.println(result);
         return result;
     }
 
