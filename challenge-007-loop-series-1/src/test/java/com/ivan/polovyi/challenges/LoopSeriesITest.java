@@ -10,9 +10,10 @@ class LoopSeriesITest {
     @Test
     public void loopSeriesIITest(){
         int input[] = {5, 3, 5};
+        int output[] = {8, 14, 26, 50, 98};
 
 
-         assertTrue(Arrays.equals(input,LoopSeriesI.loopSeriesII(input)));
+         assertTrue(Arrays.equals(output,LoopSeriesI.loopSeriesII(input)));
     }
 
 }
