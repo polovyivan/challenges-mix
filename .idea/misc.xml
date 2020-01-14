@@ -6,10 +6,14 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/coding-challenges-001-name/pom.xml" />
+        <option value="$PROJECT_DIR$/003-valley-count/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/challenge-001-brackets-pairs/pom.xml" />
+        <option value="$PROJECT_DIR$/coding-challenge-001-brackets-pairs/pom.xml" />
+        <option value="$PROJECT_DIR$/coding-challenge-002-pairs-of-socks/pom.xml" />
         <option value="$PROJECT_DIR$/coding-challenge001-name/pom.xml" />
         <option value="$PROJECT_DIR$/coding-challenges-001-name/pom.xml" />
         <option value="$PROJECT_DIR$/codingchallenge-002/pom.xml" />
