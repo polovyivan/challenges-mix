@@ -8,14 +8,19 @@
         <outputRelativeToContentRoot value="true" />
         <module name="coding-challenges.coding-challenge-001-name" />
         <module name="coding-challenges.coding-challenge-002-name" />
-        <module name="challenge-002-pairs-of-socks" />
+        <module name="challenge-006-pairs-of-socks" />
+        <module name="challenge-007-loop-series-1" />
         <module name="challenge-001-brackets-pairs" />
         <module name="challenge-003-valley-count" />
         <module name="challenge-004-output-formating" />
+        <module name="challenge-005-loop-series-II" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="challenge 002 pairs of socks I" target="1.8" />
       <module name="challenge-001-brackets-pairs" target="1.8" />
+      <module name="challenge-002-pairs-of-socks" target="1.8" />
+      <module name="challenge-005-loop-series-I" target="1.8" />
       <module name="coding-001-brackets-pairs" target="1.8" />
       <module name="coding-002-pairs-of-socks" target="1.8" />
       <module name="coding-003-valley-count" target="1.5" />
@@ -27,6 +32,7 @@
       <module name="codingchallenge-002" target="1.5" />
       <module name="codingchallenge001name" target="1.5" />
       <module name="codingchallenges02" target="1.5" />
+      <module name="test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

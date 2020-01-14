@@ -11,9 +11,10 @@
     <modules>
 
         <module>challenge-001-brackets-pairs</module>
-        <module>challenge-002-pairs-of-socks</module>
         <module>challenge-003-valley-count</module>
         <module>challenge-004-output-formating</module>
+        <module>challenge-006-pairs-of-socks</module>
+        <module>challenge-007-loop-series-1</module>
     </modules>
     <dependencies>
         <dependency>
