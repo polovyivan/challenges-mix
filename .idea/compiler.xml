@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="challenge-002-pairs-of-socks" />
-        <module name="challenge-003-valley-count" />
-        <module name="coding-challenges.coding-challenge-002-name" />
         <module name="coding-challenges.coding-challenge-001-name" />
+        <module name="coding-challenges.coding-challenge-002-name" />
+        <module name="challenge-002-pairs-of-socks" />
         <module name="challenge-001-brackets-pairs" />
+        <module name="challenge-003-valley-count" />
+        <module name="challenge-004-output-formating" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
