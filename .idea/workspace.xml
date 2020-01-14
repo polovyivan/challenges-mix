@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b98e11c7-8a56-4854-aa0c-1bf1eb9a1f97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/challenge-004-output-formating/challenge-001-brackets-pairs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challenge-004-output-formating/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challenge-004-output-formating/src/main/java/com/ivan/polovyi/coding/challenges/OutputFormating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challenge-004-output-formating/src/test/java/com/ivan/polovyi/coding/challenges/OutputFormatingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/challenge-003-valley-count/src/test/java/com/ivan/polovyi/coding/challenges/ValleyCountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-003-valley-count/src/test/java/com/ivan/polovyi/coding/challenges/ValleyCountTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-004-output-formating/src/main/java/com/ivan/polovyi/coding/challenges/OutputFormating.java" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-004-output-formating/src/main/java/com/ivan/polovyi/coding/challenges/OutputFormating.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -53,11 +45,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/challenge-004-output-formating/src/main/java/com/ivan/polovyi/coding/challenges/OutputFormating.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="11" column="61" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="61" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="330">
+              <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -65,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/challenge-004-output-formating/src/test/java/com/ivan/polovyi/coding/challenges/OutputFormatingTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+            <state relative-caret-position="203">
+              <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#598#599#0" expanded="true" />
@@ -154,8 +143,8 @@
         <option value="$PROJECT_DIR$/challenge-004-output-formating/src/main/java/com/ivan/polovyi/coding/challenges/ValleyCount.java" />
         <option value="$PROJECT_DIR$/challenge-004-output-formating/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/challenge-004-output-formating/src/main/java/com/ivan/polovyi/coding/challenges/OutputFormating.java" />
         <option value="$PROJECT_DIR$/challenge-004-output-formating/src/test/java/com/ivan/polovyi/coding/challenges/OutputFormatingTest.java" />
+        <option value="$PROJECT_DIR$/challenge-004-output-formating/src/main/java/com/ivan/polovyi/coding/challenges/OutputFormating.java" />
       </list>
     </option>
   </component>
@@ -449,24 +438,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="OutputFormatingTest_outputFormating - 2020.01.13 at 23h 59m 47s.xml">
-      <configuration name="OutputFormatingTest.outputFormating" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OutputFormatingTest_outputFormating - 2020.01.14 at 00h 01m 20s.xml">
-      <configuration name="OutputFormatingTest.outputFormating" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OutputFormatingTest_outputFormating - 2020.01.14 at 00h 04m 03s.xml">
-      <configuration name="OutputFormatingTest.outputFormating" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OutputFormatingTest_outputFormating - 2020.01.14 at 08h 23m 45s.xml">
-      <configuration name="OutputFormatingTest.outputFormating" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OutputFormatingTest_outputFormating - 2020.01.14 at 08h 52m 32s.xml">
-      <configuration name="OutputFormatingTest.outputFormating" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OutputFormatingTest_outputFormating - 2020.01.14 at 08h 53m 12s.xml">
-      <configuration name="OutputFormatingTest.outputFormating" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="OutputFormatingTest_outputFormating - 2020.01.14 at 08h 54m 28s.xml">
       <configuration name="OutputFormatingTest.outputFormating" configurationId="JUnit" />
     </history-entry>
@@ -477,6 +448,24 @@
       <configuration name="OutputFormatingTest.outputFormating" configurationId="JUnit" />
     </history-entry>
     <history-entry file="OutputFormatingTest_outputFormating - 2020.01.14 at 08h 55m 43s.xml">
+      <configuration name="OutputFormatingTest.outputFormating" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OutputFormatingTest_outputFormating - 2020.01.14 at 08h 56m 17s.xml">
+      <configuration name="OutputFormatingTest.outputFormating" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OutputFormatingTest_outputFormating - 2020.01.14 at 08h 56m 39s.xml">
+      <configuration name="OutputFormatingTest.outputFormating" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OutputFormatingTest_outputFormating - 2020.01.14 at 08h 57m 16s.xml">
+      <configuration name="OutputFormatingTest.outputFormating" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OutputFormatingTest_outputFormating - 2020.01.14 at 08h 57m 35s.xml">
+      <configuration name="OutputFormatingTest.outputFormating" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OutputFormatingTest_outputFormating - 2020.01.14 at 08h 58m 07s.xml">
+      <configuration name="OutputFormatingTest.outputFormating" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OutputFormatingTest_outputFormating - 2020.01.14 at 08h 58m 33s.xml">
       <configuration name="OutputFormatingTest.outputFormating" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -496,13 +485,13 @@
       <window_info id="Job Explorer" order="9" weight="0.32969153" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36877525" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36877525" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.45087484" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.27725437" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Console" order="10" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32974428" />
@@ -770,18 +759,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/challenge-004-output-formating/src/main/java/com/ivan/polovyi/coding/challenges/OutputFormating.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="11" column="61" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="330">
+          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/challenge-004-output-formating/src/test/java/com/ivan/polovyi/coding/challenges/OutputFormatingTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+        <state relative-caret-position="203">
+          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#598#599#0" expanded="true" />
