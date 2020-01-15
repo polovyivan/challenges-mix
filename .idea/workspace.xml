@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b98e11c7-8a56-4854-aa0c-1bf1eb9a1f97" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a-draft/src/main/java/com/ivan/polovyi/challenge/Draft.java" beforeDir="false" afterPath="$PROJECT_DIR$/a-draft/src/main/java/com/ivan/polovyi/challenge/Draft.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/challenge-002-data-types/src/main/java/com/ivan/polovyi/challenges/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-002-data-types/src/main/java/com/ivan/polovyi/challenges/DataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/challenge-002-data-types/src/test/java/com/ivan/polovyi/challenges/DataTypesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-002-data-types/src/test/java/com/ivan/polovyi/challenges/DataTypesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/challenge-002-data-types/target/classes/com/ivan/polovyi/challenges/DataTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-002-data-types/target/classes/com/ivan/polovyi/challenges/DataTypes.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -63,8 +59,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/challenge-002-data-types/src/main/java/com/ivan/polovyi/challenges/DataTypes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="469">
-              <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+            <state relative-caret-position="637">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,8 +71,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/challenge-002-data-types/src/test/java/com/ivan/polovyi/challenges/DataTypesTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="418">
+              <caret line="19" column="59" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -167,8 +163,8 @@
         <option value="$PROJECT_DIR$/challenge-004-output-formatting/pom.xml" />
         <option value="$PROJECT_DIR$/challenge-007-loop-series-1/src/test/java/com/ivan/polovyi/challenges/LoopSeriesITest.java" />
         <option value="$PROJECT_DIR$/challenge-007-loop-series-1/src/main/java/com/ivan/polovyi/challenges/LoopSeriesI.java" />
-        <option value="$PROJECT_DIR$/challenge-002-data-types/src/test/java/com/ivan/polovyi/challenges/DataTypesTest.java" />
         <option value="$PROJECT_DIR$/a-draft/src/main/java/com/ivan/polovyi/challenge/Draft.java" />
+        <option value="$PROJECT_DIR$/challenge-002-data-types/src/test/java/com/ivan/polovyi/challenges/DataTypesTest.java" />
         <option value="$PROJECT_DIR$/challenge-002-data-types/src/main/java/com/ivan/polovyi/challenges/DataTypes.java" />
       </list>
     </option>
@@ -479,7 +475,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25449872" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -493,13 +488,13 @@
       <window_info id="Job Explorer" order="9" weight="0.32969153" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3001346" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3001346" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.13189772" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.39300135" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Console" order="10" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32974428" />
@@ -555,12 +550,6 @@
           <line>20</line>
           <properties />
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/challenge-002-data-types/src/main/java/com/ivan/polovyi/challenges/DataTypes.java</url>
-          <line>18</line>
-          <properties />
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -759,8 +748,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/challenge-002-data-types/src/test/java/com/ivan/polovyi/challenges/DataTypesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="418">
+          <caret line="19" column="59" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -769,8 +758,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/challenge-002-data-types/src/main/java/com/ivan/polovyi/challenges/DataTypes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+        <state relative-caret-position="637">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

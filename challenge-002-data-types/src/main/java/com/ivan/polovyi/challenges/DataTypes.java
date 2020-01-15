@@ -32,7 +32,6 @@ public class DataTypes {
                     }
                 }
             }
-
         }
         Collections.reverse(responces);
 
