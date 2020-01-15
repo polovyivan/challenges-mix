@@ -15,6 +15,8 @@
         <module>challenge-004-output-formatting</module>
         <module>challenge-006-pairs-of-socks</module>
         <module>challenge-007-loop-series-1</module>
+        <module>a-draft</module>
+        <module>challenge-002-data-types</module>
     </modules>
     <dependencies>
         <dependency>
