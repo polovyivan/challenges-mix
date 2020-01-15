@@ -416,10 +416,11 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.PairsOfSocks" />
       <item itemvalue="Application.PairsOfSocks (2)" />
+      <item itemvalue="Application.LoopSeriesI" />
       <item itemvalue="JUnit.PairsOfSocksTest (1)" />
       <item itemvalue="JUnit.OutputFormatingTest" />
-      <item itemvalue="Application.LoopSeriesI" />
       <item itemvalue="JUnit.LoopSeriesITest" />
     </list>
     <recent_temporary>
