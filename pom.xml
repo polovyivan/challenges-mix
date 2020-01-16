@@ -18,6 +18,7 @@
         <module>a-draft</module>
         <module>challenge-002-data-types</module>
         <module>challenge-005-end-of-file</module>
+        <module>challenge-008-static-initializer-block</module>
     </modules>
     <dependencies>
         <dependency>
