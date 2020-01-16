@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/challenge-001-brackets-pairs/challenge-001-brackets-pairs.iml" filepath="$PROJECT_DIR$/challenge-001-brackets-pairs/challenge-001-brackets-pairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challenge-008-static-initializer-block/challenge-008-static-initializer-block.iml" filepath="$PROJECT_DIR$/challenge-008-static-initializer-block/challenge-008-static-initializer-block.iml" />
     </modules>
   </component>
 </project>
