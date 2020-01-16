@@ -8,13 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="challenge-002-data-types" />
         <module name="coding-challenges.coding-challenge-001-name" />
-        <module name="challenge-001-brackets-pairs" />
         <module name="a-draft" />
         <module name="coding-challenges.coding-challenge-002-name" />
         <module name="challenge-004-output-formatting" />
         <module name="challenge-008-static-initializer-block" />
-        <module name="challenge-007-loop-series-1" />
         <module name="challenge-006-pairs-of-socks" />
+        <module name="challenge-009-int-to-string" />
+        <module name="challenge-007-loop-series-1" />
+        <module name="challenge-001-brackets-pairs" />
         <module name="challenge-003-valley-count" />
         <module name="challenge-005-end-of-file" />
       </profile>
