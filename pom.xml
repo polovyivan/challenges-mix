@@ -17,6 +17,7 @@
         <module>challenge-007-loop-series-1</module>
         <module>a-draft</module>
         <module>challenge-002-data-types</module>
+        <module>challenge-005-end-of-file</module>
     </modules>
     <dependencies>
         <dependency>
