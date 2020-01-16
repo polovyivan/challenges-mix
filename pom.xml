@@ -9,17 +9,16 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-
+        <module>a-draft</module>
         <module>challenge-001-brackets-pairs</module>
+        <module>challenge-002-data-types</module>
         <module>challenge-003-valley-count</module>
         <module>challenge-004-output-formatting</module>
+        <module>challenge-005-end-of-file</module>
         <module>challenge-006-pairs-of-socks</module>
         <module>challenge-007-loop-series-1</module>
-        <module>a-draft</module>
-        <module>challenge-002-data-types</module>
-        <module>challenge-005-end-of-file</module>
-        <module>challenge-009-int-to-string</module>
         <module>challenge-008-static-initializer-block</module>
+        <module>challenge-009-int-to-string</module>
     </modules>
     <dependencies>
         <dependency>
