@@ -2,14 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b98e11c7-8a56-4854-aa0c-1bf1eb9a1f97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challenge-008-static-initializer-block/challenge-008-static-initializer-block.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challenge-009-int-to-string/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challenge-009-int-to-string/src/main/java/com/ivan/polovyi/challenges/IntToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challenge-009-int-to-string/src/test/java/com/ivan/polovyi/challenges/IntToStringTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a-draft/target/classes/com/ivan/polovyi/challenge/Draft.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-002-data-types/target/classes/com/ivan/polovyi/challenges/DataTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-002-data-types/target/test-classes/com/ivan/polovyi/challenges/DataTypesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-005-end-of-file/target/classes/com/ivan/polovyi/challenges/EndOfFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-005-end-of-file/target/test-classes/com/ivan/polovyi/challenges/EndOfFileTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-008-static-initializer-block/challenge-008-static-initializer-block.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-008-static-initializer-block/target/classes/com/ivan/polovy/challenges/StaticInitializerBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-008-static-initializer-block/target/classes/com/ivan/polovy/challenges/StaticInitializerBlock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-int-to-string/target/classes/com/ivan/polovyi/challenges/DoNotTerminate$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-int-to-string/target/classes/com/ivan/polovyi/challenges/DoNotTerminate$ExitTrappedException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-int-to-string/target/classes/com/ivan/polovyi/challenges/DoNotTerminate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-int-to-string/target/classes/com/ivan/polovyi/challenges/IntToString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenge-int-to-string/target/test-classes/com/ivan/polovyi/challenges/IntToStringTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -53,43 +60,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/challenge-009-int-to-string/src/main/java/com/ivan/polovyi/challenges/IntToString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/challenge-007-loop-series-1/src/test/java/com/ivan/polovyi/challenges/LoopSeriesITest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/challenge-005-end-of-file/src/main/java/com/ivan/polovyi/challenges/EndOfFile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="9" selection-start-line="10" selection-start-column="8" selection-end-line="14" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="27">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/challenge-002-data-types/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/challenge-008-static-initializer-block/src/main/java/com/ivan/polovy/challenges/StaticInitializerBlock.java">
+        <entry file="file://$PROJECT_DIR$/challenge-006-pairs-of-socks/src/test/java/com/ivan/polovyi/chellanges/PairsOfSocksTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+            <state relative-caret-position="638">
+              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -98,29 +87,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/challenge-009-int-to-string/src/test/java/com/ivan/polovyi/challenges/IntToStringTest.java">
-        <entry file="file://$PROJECT_DIR$/challenge-008-static-initializer-block/src/test/java/com/ivan/polovy/challenges/StaticInitializerBlockTest.java">
+        <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="35" selection-start-column="35" selection-end-column="35" />
+            <state relative-caret-position="-433">
+              <caret line="8" column="69" selection-start-line="8" selection-start-column="69" selection-end-line="8" selection-end-column="69" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/a-draft/src/main/java/com/ivan/polovyi/challenge/Draft.java">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="139">
+              <caret line="376" column="123" selection-start-line="376" selection-start-column="123" selection-end-line="376" selection-end-column="123" />
             </state>
           </provider>
         </entry>
@@ -138,6 +117,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>PairsOfSocks</find>
+      <find>&lt;configuration</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -202,7 +182,7 @@
         <option value="$PROJECT_DIR$/challenge-005-end-of-file/src/main/java/com/ivan/polovyi/challenges/EndOfFile.java" />
         <option value="$PROJECT_DIR$/challenge-009-int-to-string/src/main/java/IntToString.java" />
         <option value="$PROJECT_DIR$/challenge-009-int-to-string/src/test/java/com/ivan/polovyi/challenges/IntToStringTest.java" />
-        <option value="$PROJECT_DIR$/challenge-009-int-to-string/src/main/java/com/ivan/polovyi/challenges/IntToString.java" /
+        <option value="$PROJECT_DIR$/challenge-009-int-to-string/src/main/java/com/ivan/polovyi/challenges/IntToString.java" />
         <option value="$PROJECT_DIR$/challenge-008-static-initializer-block/src/test/java/com/ivan/polovy/challenges/StaticInitializerBlockTest.java" />
         <option value="$PROJECT_DIR$/challenge-008-static-initializer-block/src/main/java/com/ivan/polovy/challenges/StaticInitializerBlock.java" />
       </list>
@@ -253,34 +233,49 @@
             <path>
               <item name="coding-challenges" type="b2602c69:ProjectViewProjectNode" />
               <item name="coding-challenges" type="462c0819:PsiDirectoryNode" />
-              <item name="challenge-008-static-initializer-block" type="462c0819:PsiDirectoryNode" />
+              <item name="challenge-005-end-of-file" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="coding-challenges" type="b2602c69:ProjectViewProjectNode" />
               <item name="coding-challenges" type="462c0819:PsiDirectoryNode" />
-              <item name="challenge-009-int-to-string" type="462c0819:PsiDirectoryNode" />
+              <item name="challenge-006-pairs-of-socks" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="coding-challenges" type="b2602c69:ProjectViewProjectNode" />
               <item name="coding-challenges" type="462c0819:PsiDirectoryNode" />
-              <item name="challenge-009-int-to-string" type="462c0819:PsiDirectoryNode" />
-              <item name="challenge-008-static-initializer-block" type="462c0819:PsiDirectoryNode" />
+              <item name="challenge-006-pairs-of-socks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="coding-challenges" type="b2602c69:ProjectViewProjectNode" />
               <item name="coding-challenges" type="462c0819:PsiDirectoryNode" />
-              <item name="challenge-009-int-to-string" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="challenge-008-static-initializer-block" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coding-challenges" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coding-challenges" type="462c0819:PsiDirectoryNode" />
-              <item name="challenge-009-int-to-string" type="462c0819:PsiDirectoryNode" />
+              <item name="challenge-006-pairs-of-socks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coding-challenges" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coding-challenges" type="462c0819:PsiDirectoryNode" />
+              <item name="challenge-006-pairs-of-socks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coding-challenges" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coding-challenges" type="462c0819:PsiDirectoryNode" />
+              <item name="challenge-006-pairs-of-socks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coding-challenges" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coding-challenges" type="462c0819:PsiDirectoryNode" />
+              <item name="challenge-006-pairs-of-socks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chellanges" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -314,10 +309,12 @@
       <recent name="challenges" />
       <recent name="com.ivan.polovyi.coding.challenges" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="W:\projetos\coding-challenges\challenge-001-brackets-pairs\src\main\java" />
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="W:\projetos\coding-challenges" />
-      <recent name="W:\projetos\coding-challenges\coding-challenge-003-counting-valleys" />
+      <recent name="W:\projetos\coding-challenges\challenge-002-pairs-of-socks" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="challenges" />
@@ -326,12 +323,10 @@
       <recent name="challenge" />
       <recent name="java.challenge" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="W:\projetos\coding-challenges\challenge-001-brackets-pairs\src\main\java" />
       <recent name="W:\projetos\coding-challenges" />
-      <recent name="W:\projetos\coding-challenges\challenge-002-pairs-of-socks" />
+      <recent name="W:\projetos\coding-challenges\coding-challenge-003-counting-valleys" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -346,21 +341,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IntToString">
-  <component name="RunManager" selected="Application.StaticInitializerBlock">
-    <configuration name="Draft" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ivan.polovyi.challenge.Draft" />
-      <module name="a-draft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ivan.polovyi.challenge.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.DataTypesTest">
     <configuration name="EndOfFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ivan.polovyi.challenges.EndOfFile" />
       <module name="challenge-005-end-of-file" />
@@ -375,8 +356,10 @@
       </method>
     </configuration>
     <configuration name="IntToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ivan.polovyi.challenges.IntToString" />
-      <module name="challenge-009-int-to-string" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StaticInitializerBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ivan.polovy.challenges.StaticInitializerBlock" />
       <module name="challenge-008-static-initializer-block" />
@@ -390,8 +373,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataTypesTest.dataTypesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="challenge-002-data-types" />
+    <configuration name="DataTypesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coding-challenges" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ivan.polovyi.challenges.*" />
@@ -400,23 +383,23 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.ivan.polovyi.challenges" />
       <option name="MAIN_CLASS_NAME" value="com.ivan.polovyi.challenges.DataTypesTest" />
-      <option name="METHOD_NAME" value="dataTypesTest" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoopSeriesITest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="challenge-007-loop-series-1" />
+    <configuration name="PairsOfSocksTest.pairOfSocksTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="challenge-006-pairs-of-socks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ivan.polovyi.challenges.*" />
+          <option name="PATTERN" value="com.ivan.polovyi.chellanges.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.ivan.polovyi.challenges" />
-      <option name="MAIN_CLASS_NAME" value="com.ivan.polovyi.challenges.LoopSeriesITest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="com.ivan.polovyi.chellanges" />
+      <option name="MAIN_CLASS_NAME" value="com.ivan.polovyi.chellanges.PairsOfSocksTest" />
+      <option name="METHOD_NAME" value="pairOfSocksTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -469,27 +452,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Draft" />
-      <item itemvalue="Application.EndOfFile" />
-      <item itemvalue="JUnit.LoopSeriesITest" />
-      <item itemvalue="JUnit.DataTypesTest.dataTypesTest" />
-      <item itemvalue="JUnit.DataTypesTest" />
-      <item itemvalue="Application.IntToString" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.IntToString" />
-      <item itemvalue="Application.EndOfFile" />
       <item itemvalue="Application.StaticInitializerBlock" />
+      <item itemvalue="Application.EndOfFile" />
+      <item itemvalue="Application.IntToString" />
+      <item itemvalue="JUnit.PairsOfSocksTest.pairOfSocksTest" />
+      <item itemvalue="JUnit.DataTypesTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DataTypesTest" />
+        <item itemvalue="JUnit.PairsOfSocksTest.pairOfSocksTest" />
+        <item itemvalue="Application.IntToString" />
+        <item itemvalue="Application.EndOfFile" />
         <item itemvalue="Application.StaticInitializerBlock" />
-        <item itemvalue="Application.EndOfFile" />
-        <item itemvalue="JUnit.LoopSeriesITest" />
-        <item itemvalue="Application.EndOfFile" />
-        <item itemvalue="JUnit.DataTypesTest.dataTypesTest" />
-        <item itemvalue="Application.Draft" />
       </list>
     </recent_temporary>
   </component>
@@ -539,11 +514,10 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.17609255" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17609255" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17609255" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -555,7 +529,7 @@
       <window_info id="Job Explorer" order="9" weight="0.32969153" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.04037685" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.04037685" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -716,16 +690,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/challenge-006-pairs-of-socks/src/test/java/com/ivan/polovyi/chellanges/PairsOfSocksTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/challenge-004-output-formatting/src/main/java/com/ivan/polovyi/coding/challenges/OutputFormating.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -740,13 +704,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/a-draft/src/main/java/Draft.java" />
     <entry file="file://$PROJECT_DIR$/challenge-007-loop-series-1/src/main/java/com/ivan/polovyi/challenges/LoopSeriesI.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -756,9 +713,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/a-draft/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/challenge-002-data-types/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/challenge-006-pairs-of-socks/src/main/java/com/ivan/polovyi/chellanges/PairsOfSocks.java">
@@ -800,8 +754,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="417" column="10" selection-start-line="417" selection-start-column="10" selection-end-line="417" selection-end-column="10" />
+        <state relative-caret-position="139">
+          <caret line="376" column="123" selection-start-line="376" selection-start-column="123" selection-end-line="376" selection-end-column="123" />
         </state>
       </provider>
     </entry>
@@ -818,23 +772,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
     <entry file="file://$PROJECT_DIR$/challenge-008-static-initializer-block/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/challenge-007-loop-series-1/src/test/java/com/ivan/polovyi/challenges/LoopSeriesITest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/challenge-005-end-of-file/src/test/java/com/ivan/polovyi/challenges/EndOfFileTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -867,10 +806,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/challenge-009-int-to-string/src/main/java/com/ivan/polovyi/challenges/IntToString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+    <entry file="file://$PROJECT_DIR$/challenge-009-int-to-string/src/main/java/com/ivan/polovyi/challenges/IntToString.java" />
     <entry file="file://$PROJECT_DIR$/challenge-008-static-initializer-block/src/test/java/com/ivan/polovy/challenges/StaticInitializerBlockTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -882,6 +818,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/challenge-002-data-types/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/challenge-006-pairs-of-socks/src/test/java/com/ivan/polovyi/chellanges/PairsOfSocksTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
