@@ -20,6 +20,7 @@
         <module>challenge-008-static-initializer-block</module>
         <module>challenge-009-int-to-string</module>
         <module>chellenge-010-date-and-time-getday</module>
+        <module>challenge-011-currency-formater</module>
     </modules>
     <dependencies>
         <dependency>
