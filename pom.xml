@@ -19,6 +19,7 @@
         <module>challenge-007-loop-series-1</module>
         <module>challenge-008-static-initializer-block</module>
         <module>challenge-009-int-to-string</module>
+        <module>chellenge-010-date-and-time-getday</module>
     </modules>
     <dependencies>
         <dependency>
