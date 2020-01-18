@@ -16,6 +16,7 @@ public class DequeueMaxNumOfUnicIntegers {
         for (int i = 0; i < n; i++) {
             deque.add(in.nextInt());
         }
+        System.out.println(getUniqueNumbersFromDequeue(n, m, deque));
     }
 
     public static long getUniqueNumbersFromDequeue(int n, int m, Deque<Integer> deque) {
@@ -30,9 +31,7 @@ public class DequeueMaxNumOfUnicIntegers {
             if (max < uniqueNumbers.size()) {
                 max = uniqueNumbers.size();
             }
-
             deque.poll();
-
         }
         return max;
     }
