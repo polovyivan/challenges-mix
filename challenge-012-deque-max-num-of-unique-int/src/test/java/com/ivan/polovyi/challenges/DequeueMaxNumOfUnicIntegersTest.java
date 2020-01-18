@@ -44,22 +44,22 @@ class DequeueMaxNumOfUnicIntegersTest {
         assertTrue(durtion <= 3);
 
 
-//        Deque <Integer> deque2 = new ArrayDeque<>();
-//        deque2.offer(1);
-//        deque2.offer(1);
-//        deque2.offer(1);
-//        deque2.offer(1);
-//        deque2.offer(1);
-//        deque2.offer(1);
-//        deque2.offer(1);
-//        deque2.offer(1);
-//        deque2.offer(1);
-//        deque2.offer(1);
-//        int n2 = 10;
-//        int m2 = 3;
-//
-//        int expected2 = 1;
-//        assertEquals(expected2,DequeueMaxNumOfUnicIntegers.getUniqueNumbersFromDequeue(n2,m2,deque2));
+        Deque <Integer> deque2 = new ArrayDeque<>();
+        deque2.offer(1);
+        deque2.offer(1);
+        deque2.offer(1);
+        deque2.offer(1);
+        deque2.offer(1);
+        deque2.offer(1);
+        deque2.offer(1);
+        deque2.offer(1);
+        deque2.offer(1);
+        deque2.offer(1);
+        int n2 = 10;
+        int m2 = 3;
+
+        int expected2 = 1;
+        assertEquals(expected2,DequeueMaxNumOfUnicIntegers.getUniqueNumbersFromDequeue(n2,m2,deque2));
 
     }
 }
