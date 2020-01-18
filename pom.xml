@@ -21,6 +21,7 @@
         <module>challenge-009-int-to-string</module>
         <module>chellenge-010-date-and-time-getday</module>
         <module>challenge-011-currency-formater</module>
+        <module>challenge-012-deque-max-num-of-unique-int</module>
     </modules>
     <dependencies>
         <dependency>
