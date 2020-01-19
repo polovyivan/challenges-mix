@@ -18,6 +18,49 @@ public class ReduceMethod {
 
         reduceMethod();
 
+        reduceMethodAdvanced();
+
+        reduceMethodMaxMin();
+
+    }
+
+    private static void reduceMethodMaxMin() {
+        // find max value in a list
+        // if empty collection passed max value will be default value in this case is 0
+        // to overcome this issue optional can be used (recommended way)
+        List<Integer> integerList = Arrays.asList(6, 7, 8, 9, 10);
+        Integer max = integerList.stream()
+                //6->y
+                //7->y
+                //8->y
+                //9->y
+                //10->y
+                //1 iteration x = 0 (first parameter)
+                //            y = first element from stream
+                //1 iteration x = result from previous iteration(x*y) max value
+                //            y = second element from stream
+                // ....
+                .reduce(0, (x, y) -> x > y ? x : y);
+        // .reduce(0, (x, y) -> x < y ? x : y); // - min value
+        System.out.println(max);
+
+        Optional<Integer> maxOptional = integerList.stream()
+                //6->y
+                //7->y
+                //8->y
+                //9->y
+                //10->y
+                //1 iteration x = 0 (first parameter)
+                //            y = first element from stream
+                //1 iteration x = result from previous iteration(x*y) max value
+                //            y = second element from stream
+                // ....
+                .reduce((x, y) -> x > y ? x : y);
+        // .reduce(0, (x, y) -> x < y ? x : y); // - min value
+        System.out.println(maxOptional);
+    }
+
+    private static void reduceMethodAdvanced() {
         // return student with highest GPA
         Optional<Student> studentWithHighestGPA = StudentDataBase.getAllStudents()
                 .stream()
