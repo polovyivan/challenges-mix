@@ -19,11 +19,12 @@
         <module>challenge-007-loop-series-1</module>
         <module>challenge-008-static-initializer-block</module>
         <module>challenge-009-int-to-string</module>
-        <module>chellenge-010-date-and-time-getday</module>
+        <module>challenge-010-date-and-time-getday</module>
         <module>challenge-011-currency-formater</module>
         <module>challenge-012-deque-max-num-of-unique-int</module>
         <module>challenge-013-java8-streams</module>
-        <module>challenges-014-java8-functional-interfaces</module>
+        <module>challenge-014-java8-functional-interfaces</module>
+        <module>challenge-015-java8-method-reference</module>
     </modules>
     <dependencies>
         <dependency>
