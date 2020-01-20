@@ -1,12 +1,12 @@
 package com.ivan.polovyi.challenges;
 
+import com.ivan.polovyi.challenges.DataTypes;
 import org.junit.jupiter.api.Test;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertIterableEquals;
 
 class DataTypesTest {
 
