@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>challenges-014-java8-functional-interfaces</artifactId>
+    <artifactId>challenge-014-java8-functional-interfaces</artifactId>
 
 
 </project>
