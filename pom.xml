@@ -23,6 +23,7 @@
         <module>challenge-011-currency-formater</module>
         <module>challenge-012-deque-max-num-of-unique-int</module>
         <module>challenge-013-java8-streams</module>
+        <module>challenges-014-java8-functional-interfaces</module>
     </modules>
     <dependencies>
         <dependency>
