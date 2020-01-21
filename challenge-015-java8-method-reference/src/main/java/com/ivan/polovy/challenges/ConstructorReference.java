@@ -1,6 +1,6 @@
 package com.ivan.polovy.challenges;
 
-import com.ivan.polovy.challenges.data.Student;
+import com.ivan.polovyi.challenges.data.Student;
 
 import java.util.function.Function;
 import java.util.function.Supplier;
