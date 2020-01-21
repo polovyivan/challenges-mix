@@ -25,6 +25,7 @@
         <module>challenge-013-java8-streams</module>
         <module>challenge-014-java8-functional-interfaces</module>
         <module>challenge-015-java8-method-reference</module>
+        <module>challenge-016-java8-parallel-streams</module>
     </modules>
     <dependencies>
         <dependency>
