@@ -28,6 +28,7 @@
         <module>challenge-016-java8-parallel-streams</module>
         <module>challenge-017-java8-optional</module>
         <module>challenge-018-java8-default-static-methods-of-interface</module>
+        <module>challenge-019-java-8-date-and-time</module>
     </modules>
     <dependencies>
         <dependency>
