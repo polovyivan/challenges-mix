@@ -1,7 +1,7 @@
 package com.ivan.polovy.challenges;
 
-import com.ivan.polovyi.challenges.data.Student;
-import com.ivan.polovyi.challenges.data.StudentDataBase;
+import com.ivan.polovy.challenges.data.Student;
+import com.ivan.polovy.challenges.data.StudentDataBase;
 
 import java.util.function.Consumer;
 import java.util.function.Function;
