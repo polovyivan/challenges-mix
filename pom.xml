@@ -29,6 +29,7 @@
         <module>challenge-017-java8-optional</module>
         <module>challenge-018-java8-default-static-methods-of-interface</module>
         <module>challenge-019-java-8-date-and-time</module>
+        <module>challenge-020-multithreading</module>
     </modules>
     <dependencies>
         <dependency>
