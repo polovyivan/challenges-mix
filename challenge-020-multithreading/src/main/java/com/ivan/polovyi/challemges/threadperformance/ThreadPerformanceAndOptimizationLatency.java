@@ -15,9 +15,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 // Picture processing, in given picture paint all white flowers into purple
-public class ThreadPerformanceAndOptimization {
+public class ThreadPerformanceAndOptimizationLatency {
 
-    public static final String SOURCE_FILE = "W:\\projetos\\coding-challenges\\challenge-020-multithreading\\src\\main\\resources\\many-flowers.jpg";
+    public static final String SOURCE_FILE = "/W:/projetos/coding-challenges/challenge-020-multithreading/target/classes/many-flowers.jpg";
 
     public static final String DESTINATION_FILE = "W:\\projetos\\coding-challenges\\challenge-020-multithreading\\src\\main\\resources\\many-flowers1.jpg";
 
