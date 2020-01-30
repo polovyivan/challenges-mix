@@ -30,6 +30,7 @@
         <module>challenge-018-java8-default-static-methods-of-interface</module>
         <module>challenge-019-java-8-date-and-time</module>
         <module>challenge-020-multithreading</module>
+        <module>challenge-021-git</module>
     </modules>
     <dependencies>
         <dependency>
