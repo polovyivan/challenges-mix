@@ -1,4 +1,4 @@
-package com.ivan.polovyi.challenges.springboot.jwt.security;
+package com.ivan.polovyi.challenges.springboot.jwt.security.dto;
 
 public class AuthenticationResponce {
 

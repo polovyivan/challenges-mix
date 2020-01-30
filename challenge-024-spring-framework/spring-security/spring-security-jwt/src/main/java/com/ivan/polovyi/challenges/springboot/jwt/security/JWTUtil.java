@@ -3,6 +3,7 @@ package com.ivan.polovyi.challenges.springboot.jwt.security;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.stereotype.Service;
 
@@ -14,7 +15,11 @@ import java.util.function.Function;
 @Service
 public class JWTUtil {
 
-    private String SECRET_KEY = "secret";
+    @Value("${jwt.token.secured.key}")
+    private String SECRET_KEY;
+
+    @Value("#{1000 * 60 * 60 * 10}")
+    private int EXPIRATION_TIME;
 
     public String extractUsername(String token) {
         return extractClaim(token, Claims::getSubject);
@@ -28,6 +33,7 @@ public class JWTUtil {
         final Claims claims = extractAllClaims(token);
         return claimsResolver.apply(claims);
     }
+
     private Claims extractAllClaims(String token) {
         return Jwts.parser().setSigningKey(SECRET_KEY).parseClaimsJws(token).getBody();
     }
@@ -43,12 +49,14 @@ public class JWTUtil {
 
     private String createToken(Map<String, Object> claims, String subject) {
 
+
         return Jwts.builder().setClaims(claims).setSubject(subject).setIssuedAt(new Date(System.currentTimeMillis()))
-                .setExpiration(new Date(System.currentTimeMillis() + 1000 * 60 * 60 * 10))
+                .setExpiration(new Date(System.currentTimeMillis() + EXPIRATION_TIME))
                 .signWith(SignatureAlgorithm.HS256, SECRET_KEY).compact();
     }
 
     public Boolean validateToken(String token, UserDetails userDetails) {
+        System.out.println(EXPIRATION_TIME);
         final String username = extractUsername(token);
         return (username.equals(userDetails.getUsername()) && !isTokenExpired(token));
     }

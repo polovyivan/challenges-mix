@@ -1,8 +1,7 @@
-package com.ivan.polovyi.challenges.springboot.jwt.controllers;
+package com.ivan.polovyi.challenges.springboot.jwt.security;
 
-import com.ivan.polovyi.challenges.springboot.jwt.security.AuthenticationRequest;
-import com.ivan.polovyi.challenges.springboot.jwt.security.AuthenticationResponce;
-import com.ivan.polovyi.challenges.springboot.jwt.security.JWTUtil;
+import com.ivan.polovyi.challenges.springboot.jwt.security.dto.AuthenticationRequest;
+import com.ivan.polovyi.challenges.springboot.jwt.security.dto.AuthenticationResponce;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.authentication.AuthenticationManager;

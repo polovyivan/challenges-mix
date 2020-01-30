@@ -1,4 +1,4 @@
-package com.ivan.polovyi.challenges.springboot.jwt.security;
+package com.ivan.polovyi.challenges.springboot.jwt.security.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;

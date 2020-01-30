@@ -1,5 +1,7 @@
-package com.ivan.polovyi.challenges.springboot.jwt.security;
+package com.ivan.polovyi.challenges.springboot.jwt.security.config;
 
+import com.ivan.polovyi.challenges.springboot.jwt.security.JWTRequestFilter;
+import com.ivan.polovyi.challenges.springboot.jwt.security.MyUserDetailsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Profile;
