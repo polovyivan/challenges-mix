@@ -35,6 +35,7 @@
         <module>challenge-023-generics</module>
         <module>challenge-024-spring-framework</module>
         <module>challenge-025-string-I</module>
+        <module>challenge-026-string-II</module>
     </modules>
     <dependencies>
         <dependency>
