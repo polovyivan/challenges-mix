@@ -31,6 +31,9 @@
         <module>challenge-019-java-8-date-and-time</module>
         <module>challenge-020-multithreading</module>
         <module>challenge-021-git</module>
+        <module>challenge-022-collections</module>
+        <module>challenge-023-generics</module>
+        <module>challenge-024-spring-framework</module>
     </modules>
     <dependencies>
         <dependency>
