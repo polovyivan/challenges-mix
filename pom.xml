@@ -36,6 +36,7 @@
         <module>challenge-024-spring-framework</module>
         <module>challenge-025-string-I</module>
         <module>challenge-026-string-II</module>
+        <module>challenge-027-string-III-reverse</module>
     </modules>
     <dependencies>
         <dependency>
