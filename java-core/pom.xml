@@ -13,6 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>challenges-string</module>
+        <module>java-patterns</module>
     </modules>
 
 

@@ -33,11 +33,10 @@
         <module>challenge-021-git</module>
         <module>challenge-022-collections</module>
         <module>challenge-023-generics</module>
-        <module>challenge-024-spring-framework</module>
+        <module>spring-framework</module>
         <module>challenge-025-string-I</module>
         <module>challenge-026-string-II</module>
         <module>challenge-027-string-III-reverse</module>
-        <module>challenge-028-string-IV-anagrams</module>
         <module>java-core</module>
     </modules>
     <dependencies>
