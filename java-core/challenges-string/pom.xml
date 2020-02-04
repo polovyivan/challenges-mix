@@ -16,6 +16,7 @@
         <module>002-string-regex</module>
         <module>003-string-ip-regex</module>
         <module>004-string-anagrams</module>
+        <module>005-string-lexicographical-order</module>
     </modules>
 
 

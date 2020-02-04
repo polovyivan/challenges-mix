@@ -9,12 +9,16 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>java-core</artifactId>
+    <artifactId>java-8</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>challenges-string</module>
-        <module>java-patterns</module>
-        <module>hacker-rank</module>
+        <module>streams</module>
+        <module>functional-interface</module>
+        <module>method-reference</module>
+        <module>parallel-streams</module>
+        <module>optional</module>
+        <module>default-static-methods-of-interface</module>
+        <module>date-and-time</module>
     </modules>
 
 

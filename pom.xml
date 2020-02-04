@@ -22,15 +22,8 @@
         <module>challenge-010-date-and-time-getday</module>
         <module>challenge-011-currency-formater</module>
         <module>challenge-012-deque-max-num-of-unique-int</module>
-        <module>challenge-013-java8-streams</module>
-        <module>challenge-014-java8-functional-interfaces</module>
-        <module>challenge-015-java8-method-reference</module>
-        <module>challenge-016-java8-parallel-streams</module>
-        <module>challenge-017-java8-optional</module>
-        <module>challenge-018-java8-default-static-methods-of-interface</module>
-        <module>challenge-019-java-8-date-and-time</module>
         <module>challenge-020-multithreading</module>
-        <module>challenge-021-git</module>
+        <module>git-examples</module>
         <module>challenge-022-collections</module>
         <module>challenge-023-generics</module>
         <module>spring-framework</module>
@@ -38,6 +31,7 @@
         <module>challenge-026-string-II</module>
         <module>challenge-027-string-III-reverse</module>
         <module>java-core</module>
+        <module>java-8</module>
     </modules>
     <dependencies>
         <dependency>
