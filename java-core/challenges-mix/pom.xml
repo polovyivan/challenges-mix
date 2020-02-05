@@ -13,7 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>001-brackets-pairs</module>
-        <module>002-com.ivan.polovyi.challenges.data-types</module>
+        <module>data-types</module>
         <module>003-output-formating</module>
         <module>004-end-of-file</module>
         <module>005-pair-of-socks</module>
