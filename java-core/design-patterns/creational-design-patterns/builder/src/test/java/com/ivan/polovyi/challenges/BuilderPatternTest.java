@@ -1,7 +1,7 @@
-package com.ivan.polovyi.challenges.examples.challenges;
+package com.ivan.polovyi.challenges;
 
-import com.ivan.polovyi.challenges.examples.challenges.twoclasses.Animal;
-import com.ivan.polovyi.challenges.examples.challenges.twoclasses.BuilderPattern;
+import com.ivan.polovyi.challenges.twoclasses.Animal;
+import com.ivan.polovyi.challenges.twoclasses.BuilderPattern;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;

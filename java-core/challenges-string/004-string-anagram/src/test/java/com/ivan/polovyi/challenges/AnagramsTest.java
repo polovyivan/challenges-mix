@@ -1,8 +1,8 @@
-package com.ivan.polovyi.challenges.examples.challenges;
+package com.ivan.polovyi.challenges;
 
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 class AnagramsTest {
 

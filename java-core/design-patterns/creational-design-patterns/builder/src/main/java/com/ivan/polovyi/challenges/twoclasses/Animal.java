@@ -1,4 +1,4 @@
-package com.ivan.polovyi.challenges.examples.challenges.twoclasses;
+package com.ivan.polovyi.challenges.twoclasses;
 
 import java.util.List;
 

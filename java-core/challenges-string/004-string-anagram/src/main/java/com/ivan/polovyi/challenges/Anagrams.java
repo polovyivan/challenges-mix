@@ -1,4 +1,4 @@
-package com.ivan.polovyi.challenges.examples.challenges;
+package com.ivan.polovyi.challenges;
 
 import java.util.Scanner;
 
@@ -61,6 +61,6 @@ public class Anagrams {
         String b = scan.next();
         scan.close();
         boolean ret = isAnagram(a, b);
-        System.out.println((ret) ? "Anagrams" : "Not Anagrams");
+        System.out.println((ret) ? "com.ivan.polovyi.challenges.Anagrams" : "Not com.ivan.polovyi.challenges.Anagrams");
     }
 }

@@ -15,7 +15,7 @@
         <module>001-string-tokens</module>
         <module>002-string-regex</module>
         <module>003-string-ip-regex</module>
-        <module>004-string-anagrams</module>
+        <module>004-string-anagram</module>
         <module>005-string-lexicographical-order</module>
         <module>006-string-reverse</module>
     </modules>

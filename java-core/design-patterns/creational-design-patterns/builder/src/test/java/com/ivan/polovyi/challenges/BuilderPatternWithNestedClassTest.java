@@ -1,10 +1,10 @@
-package com.ivan.polovyi.challenges.examples.challenges;
+package com.ivan.polovyi.challenges;
 
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class BuilderPatternWithNestedClassTest {
 

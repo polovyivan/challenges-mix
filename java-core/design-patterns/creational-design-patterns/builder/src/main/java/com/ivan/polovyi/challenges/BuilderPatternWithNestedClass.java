@@ -1,4 +1,4 @@
-package com.ivan.polovyi.challenges.examples.challenges;
+package com.ivan.polovyi.challenges;
 
 import java.util.List;
 
