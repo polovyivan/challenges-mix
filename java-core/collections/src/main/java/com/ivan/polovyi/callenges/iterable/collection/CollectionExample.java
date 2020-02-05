@@ -1,4 +1,4 @@
-package com.ivan.polovyi.callenges.collection;
+package com.ivan.polovyi.callenges.iterable.collection;
 
 import java.util.ArrayList;
 import java.util.Arrays;
