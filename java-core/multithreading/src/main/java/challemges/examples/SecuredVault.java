@@ -7,8 +7,8 @@ import java.util.Random;
 
 /*
   SECURITY VAULT
-   -- How long it would take for hackers to guess security code?
-      - Couple of hackers thread will try to guess the security code concurrently
+   -- How long it would take for hackers to guess com.ivan.polovyi.challenges.security code?
+      - Couple of hackers thread will try to guess the com.ivan.polovyi.challenges.security code concurrently
       - One police thread will come to rescue by counting down 10 sec and if hackers haven't broken into
         vault, police will arrest them
       - Police will show us the progress of it arrival while counting down will show

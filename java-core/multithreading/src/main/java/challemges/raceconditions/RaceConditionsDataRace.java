@@ -4,7 +4,7 @@ package challemges.raceconditions;
 /*
 
    -- Race condition
-      - when multiple threads accessing data source
+      - when multiple threads accessing com.ivan.polovyi.challenges.data source
       - at least one thread is modifying resource
       - the timing of threads' scheduling may cause incorrect results
       - the core fo the problem is non atomic operations performed on shared resource

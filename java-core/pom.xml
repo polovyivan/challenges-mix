@@ -17,6 +17,7 @@
         <module>generics</module>
         <module>multithreading</module>
         <module>challenges-mix</module>
+        <module>design-patterns</module>
     </modules>
 
 
