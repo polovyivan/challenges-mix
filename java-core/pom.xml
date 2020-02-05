@@ -15,6 +15,10 @@
         <module>challenges-string</module>
         <module>java-patterns</module>
         <module>hacker-rank</module>
+        <module>collections</module>
+        <module>generics</module>
+        <module>multithreading</module>
+        <module>challenges-mix</module>
     </modules>
 
 

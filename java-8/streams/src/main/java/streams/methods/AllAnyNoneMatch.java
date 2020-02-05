@@ -1,7 +1,7 @@
 package streams.methods;
 
 
-import com.ivan.polovyi.challenges.data.StudentDataBase;
+import com.ivan.polovyi.challenges.examples.challenges.data.StudentDataBase;
 
 /*
 All methods accept Predicate as a parameter, and return boolean

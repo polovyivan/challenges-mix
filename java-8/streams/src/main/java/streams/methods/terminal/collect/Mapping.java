@@ -1,8 +1,8 @@
 package streams.methods.terminal.collect;
 
 
-import com.ivan.polovyi.challenges.data.Student;
-import com.ivan.polovyi.challenges.data.StudentDataBase;
+import com.ivan.polovyi.challenges.examples.challenges.data.Student;
+import com.ivan.polovyi.challenges.examples.challenges.data.StudentDataBase;
 
 import java.util.List;
 import java.util.Map;

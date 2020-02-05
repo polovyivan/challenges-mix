@@ -7,7 +7,7 @@ map() method used for:
  - perform some operation on an object
  */
 
-import com.ivan.polovyi.challenges.data.StudentDataBase;
+import com.ivan.polovyi.challenges.examples.challenges.data.StudentDataBase;
 
 import java.util.List;
 import java.util.stream.Collectors;

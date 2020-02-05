@@ -1,7 +1,7 @@
 package streams.methods.terminal.collect;
 
 
-import com.ivan.polovyi.challenges.data.StudentDataBase;
+import com.ivan.polovyi.challenges.examples.challenges.data.StudentDataBase;
 
 import java.util.stream.Collectors;
 
