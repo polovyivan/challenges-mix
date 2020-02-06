@@ -9,18 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>java-core</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>challenges-string</module>
-        <module>collections</module>
-        <module>generics</module>
-        <module>multithreading</module>
-        <module>challenges-mix</module>
-        <module>design-patterns</module>
-        <module>enums</module>
-        <module>nested-classes</module>
-    </modules>
+    <artifactId>nested-classes</artifactId>
 
 
 </project>

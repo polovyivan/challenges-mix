@@ -15,7 +15,6 @@
         <module>java-core</module>
         <module>java-8</module>
         <module>a-draft</module>
-        <module>enums</module>
     </modules>
     <dependencies>
         <dependency>
