@@ -40,32 +40,94 @@ public class LinkedListExample {
         System.out.println("last = " + last);
         System.out.println("linkedList = " + linkedList);
 
-        // boolean offerFirst(E e)
+        // boolean offer(E e) Adds the specified element as the tail (last element) of this list.
+        linkedList.add(2);
+        boolean offer = linkedList.offer(2);
+        System.out.println("offer = " + offer);
+        System.out.println("linkedList = " + linkedList);
 
-        // boolean offerLast(E e)
-
-        // boolean peekFirst(E e)
-
-        // boolean peekLast(E e)
-
-        // boolean pollFirst(E e)
-
-        // boolean pollLast(E e)
-
-        // E push()
-
-        // E pop()
+        // boolean offerFirst(E e) Inserts the specified element at the front of this list
+        boolean offerFirst = linkedList.offerFirst(-1);
+        System.out.println("offerFirst = " + offerFirst);
+        System.out.println("linkedList = " + linkedList);
 
 
+        // boolean offerLast(E e) Inserts the specified element at the end of this list
+        boolean offerLast = linkedList.offerLast(10);
+        System.out.println("offerLast = " + offerLast);
+        System.out.println("linkedList = " + linkedList);
 
 
-        //E removeFirst()
+        // boolean peek(E e) Retrieves, but does not remove, the head (first element) of this list.
+        Integer peek = linkedList.peek();
+        System.out.println("peek = " + peek);
+        System.out.println("linkedList = " + linkedList);
+
+        // boolean peekFirst(E e) Retrieves, but does not remove, the first element of this list,
+        //or returns {@code null} if this list is empty.
+        Integer peekFirst = linkedList.peekFirst();
+        System.out.println("peekFirst = " + peekFirst);
+        System.out.println("linkedList = " + linkedList);
+
+        // boolean peekLast(E e) Retrieves, but does not remove, the last element of this list,
+        // or returns {@code null} if this list is empty.
+        Integer peekLast = linkedList.peekLast();
+        System.out.println("peekLast = " + peekLast);
+        System.out.println("linkedList = " + linkedList);
+
+        // boolean poll(E e) Retrieves and removes the head (first element) of this list.
+        Integer poll = linkedList.poll();
+        System.out.println("poll = " + poll);
+        System.out.println("linkedList = " + linkedList);
+
+        // boolean pollFirst(E e) Retrieves and removes the first element of this list,
+        // or returns {@code null} if this list is empty.
+        Integer pollFirst = linkedList.pollFirst();
+        System.out.println("pollFirst = " + pollFirst);
+        System.out.println("linkedList = " + linkedList);
+
+        // boolean pollLast(E e) Retrieves and removes the last element of this list,
+        // or returns {@code null} if this list is empty.
+        Integer pollLast = linkedList.pollLast();
+        System.out.println("integer = " + pollLast);
+        System.out.println("linkedList = " + linkedList);
+
+        // E push() Pushes an element onto the stack represented by this list.  In other
+        //words, inserts the element at the front of this list
+        linkedList.push(100);
+        System.out.println("push 100");
+        System.out.println("linkedList = " + linkedList);
+
+        // E pop() Pops an element from the stack represented by this list.  In other
+        // words, removes and returns the first element of this list.
+        Integer pop = linkedList.pop();
+        System.out.println("pop = " + pop);
+        System.out.println("linkedList = " + linkedList);
+
+        //E removeFirst() Removes and returns the first element from this list.
+        Integer removeFirst = linkedList.removeFirst();
+        System.out.println("removeFirst = " + removeFirst);
+        System.out.println("linkedList = " + linkedList);
+
+        // E removeLast() Removes and returns the last element from this list.
+        Integer removeLast = linkedList.removeLast();
+        System.out.println("removeLast = " + removeLast);
+        System.out.println("linkedList = " + linkedList);
 
 
-        // E removeLast()
+        // boolean removeFirstOccurrence(Object o) Removes the first occurrence of the specified element in this
+        // list (when traversing the list from head to tail).  If the list
+        //  does not contain the element, it is unchanged.
+        boolean removeFirstOccurrence = linkedList.removeFirstOccurrence(2);
+        System.out.println("removeFirstOccurrence = " + removeFirstOccurrence);
+        System.out.println("linkedList = " + linkedList);
 
-
-        // boolean removeFirstOccurrence(Object o)
+        // boolean removeLastOccurrence(Object o) Removes the last occurrence of the specified element in this
+        // list (when traversing the list from head to tail).  If the list
+        // does not contain the element, it is unchanged.
+        boolean removeLastOccurrence = linkedList.removeLastOccurrence(2);
+        System.out.println("removeLastOccurrence = " + removeLastOccurrence);
+        System.out.println("linkedList = " + linkedList);
 
 
         // descending iterator backward iteration
@@ -74,10 +136,13 @@ public class LinkedListExample {
             System.out.println("descendingIterator = " + descendingIterator.next());
         }
 
-        //
-        ListIterator<Integer> integerListIterator = linkedList.listIterator();
+        // Returns a list-iterator of the elements in this list (in proper
+        //  sequence), starting at the specified position in the list.
+        ListIterator<Integer> listIteratorFromIndex = linkedList.listIterator(1);
+        while (listIteratorFromIndex.hasNext()) {
+            System.out.println("listIteratorFromIndex.next() = " + listIteratorFromIndex.next());
+        }
 
-        ListIterator<Integer> listIteratorFromIndex = linkedList.listIterator(3);
 
     }
 
