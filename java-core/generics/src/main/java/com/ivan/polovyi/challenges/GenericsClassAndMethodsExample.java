@@ -1,5 +1,8 @@
 package com.ivan.polovyi.challenges;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class GenericsClassAndMethodsExample {
 
     public static void main(String[] args) {
@@ -22,6 +25,11 @@ public class GenericsClassAndMethodsExample {
         GenericConstructor<String> genericConstructor = new GenericConstructor(5L);
         // doesn't compile
         // genericConstructor.printString(5L);
+
+        List<Integer> numberList = new ArrayList<Integer>();
+        // doesn't compile has to be equals from both sides
+        // List<Number> numberList2 = new ArrayList<Integer>();
+
 
     }
 
@@ -56,6 +64,18 @@ public class GenericsClassAndMethodsExample {
         public <T> T genericMethod(T t) {
             return t;
         }
+    }
+
+
+    //  class name has same name as a generics
+    public class SameNameAsGenerics<S> {
+        class S {
+
+        }
+
+        // doesn't compile because new S()
+        // S s = new S();
+
     }
 
 }

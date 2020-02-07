@@ -39,4 +39,5 @@ public class GenericsBoundsExample {
     Integer.class
      */
     //List<? super Number> lowerBound3 = new ArrayList<Integer>();
-}
+
+   }
