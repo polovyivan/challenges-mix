@@ -68,13 +68,21 @@ public class GenericsClassAndMethodsExample {
 
 
     //  class name has same name as a generics
+
+    class S {
+
+    }
+
+    class B extends S {
+
+    }
+
     public class SameNameAsGenerics<S> {
-        class S {
 
-        }
 
-        // doesn't compile because new S()
+        // doesn't compile because of the same name
         // S s = new S();
+        // S s = new B();
 
     }
 
