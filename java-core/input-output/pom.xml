@@ -9,18 +9,10 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>java-core</artifactId>
-    <packaging>pom</packaging>
+    <artifactId>input-output</artifactId>
+
     <modules>
-        <module>challenges-string</module>
-        <module>collections</module>
-        <module>generics</module>
-        <module>multithreading</module>
-        <module>challenges-mix</module>
-        <module>design-patterns</module>
-        <module>enums</module>
-        <module>nested-classes</module>
-        <module>input-output</module>
+        <module>io</module>
     </modules>
 
 
