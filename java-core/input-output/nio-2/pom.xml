@@ -9,12 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>input-output</artifactId>
-
-    <modules>
-        <module>io</module>
-        <module>nio-2</module>
-    </modules>
+    <artifactId>nio-2</artifactId>
 
 
 </project>
