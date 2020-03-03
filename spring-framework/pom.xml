@@ -13,6 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>spring-security</module>
+        <module>bean-validation</module>
     </modules>
 
 
