@@ -15,6 +15,7 @@
         <module>java-core</module>
         <module>java-8</module>
         <module>a-draft</module>
+        <module>spring-framework/spring-rest-docs</module>
     </modules>
     <dependencies>
         <dependency>
