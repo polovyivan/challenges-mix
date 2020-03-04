@@ -15,6 +15,7 @@
         <module>spring-security</module>
         <module>bean-validation</module>
         <module>spring-rest-docs</module>
+        <module>spring-jackson</module>
     </modules>
 
 
