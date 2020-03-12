@@ -9,15 +9,9 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>spring-framework</artifactId>
-    <packaging>pom</packaging>
+    <artifactId>spring-jms</artifactId>
     <modules>
-        <module>spring-security</module>
-        <module>bean-validation</module>
-        <module>spring-rest-docs</module>
-        <module>spring-jackson</module>
-        <module>spring-jms</module>
+        <module>spring-active-mq-artemis</module>
     </modules>
-
 
 </project>
