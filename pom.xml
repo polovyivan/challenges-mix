@@ -3,37 +3,19 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-
-    <groupId>coding-challenges</groupId>
+    <groupId>com.ivan.polovyi.coding-challenges</groupId>
     <artifactId>coding-challenges</artifactId>
+    <version>1.0</version>
     <packaging>pom</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <properties>
+        <java.version>11</java.version>
+    </properties>
     <modules>
         <module>a-draft</module>
         <module>git-examples</module>
-        <module>spring-framework</module>
-        <module>java-core</module>
         <module>java-8</module>
-        <module>a-draft</module>
+        <module>java-core</module>
+        <module>spring-framework</module>
         <module>spring-framework/spring-rest-docs</module>
     </modules>
-    <dependencies>
-        <dependency>
-            <groupId>org.junit.jupiter</groupId>
-            <artifactId>junit-jupiter-api</artifactId>
-            <version>5.5.2</version>
-            <scope>test</scope>
-        </dependency>
-    </dependencies>
-    <build>
-        <plugins>
-            <plugin>
-                <artifactId>maven-compiler-plugin</artifactId>
-                <configuration>
-                    <source>1.8</source>
-                    <target>1.8</target>
-                </configuration>
-            </plugin>
-        </plugins>
-    </build>
 </project>
