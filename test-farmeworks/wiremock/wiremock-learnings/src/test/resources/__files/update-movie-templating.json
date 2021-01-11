@@ -1,0 +1,7 @@
+{
+  "movie_id": "{{request.path.[3]}}",
+  "name": "Toy story 4",
+  "year": 2019,
+  "cast": "Tom Hanks, Katie Holmes, Tim Allen, {{jsonPath request.body '$.cast'}}",
+  "release_date": "2019-06-20"
+}
