@@ -1,23 +1,24 @@
-package com.ivan.polovyi.wiremock.learnings.service;
+package com.ivan.polovyi.challenges.wiremockspringboot.service;
 
-import com.ivan.polovyi.wiremock.learnings.constraints.MoviesAppConstants;
-import com.ivan.polovyi.wiremock.learnings.dto.Movie;
-import com.ivan.polovyi.wiremock.learnings.exception.MovieErrorResponse;
-import java.util.ArrayList;
+
+import com.ivan.polovyi.challenges.wiremockspringboot.constraints.MoviesAppConstants;
+import com.ivan.polovyi.challenges.wiremockspringboot.dto.Movie;
+import com.ivan.polovyi.challenges.wiremockspringboot.exception.MovieErrorResponse;
 import java.util.List;
 import lombok.extern.slf4j.Slf4j;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
 import org.springframework.web.reactive.function.client.WebClient;
 import org.springframework.web.reactive.function.client.WebClientResponseException;
 import org.springframework.web.util.UriComponentsBuilder;
 
 @Slf4j
+@Component
 public class MoviesRestClient {
 
+  @Autowired
   private WebClient webClient;
 
-  public MoviesRestClient(WebClient webClient) {
-    this.webClient = webClient;
-  }
 
   public List<Movie> retrieveAllMovies() {
 
