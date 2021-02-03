@@ -1,0 +1,5 @@
+aws.access-key=AKIA2KE3F6H6LIKKUJWZ
+aws.secret-key=secret-key
+aws.bucket-name=bucket-name
+aws.service-endpoint=http://localhost:4566
+aws.region=us-east-1

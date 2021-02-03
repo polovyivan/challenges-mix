@@ -17,5 +17,6 @@
         <module>java-core</module>
         <module>spring-framework</module>
         <module>spring-framework/spring-rest-docs</module>
+      <module>aws</module>
     </modules>
 </project>
